@@ -10,7 +10,7 @@ import java.util.Arrays;
  *
  * 3. Написать функцию, возвращающую истину, если в переданном массиве есть два соседних элемента, с нулевым значением.
  */
-public class task2 {
+public class Task2 {
 
     static void task1_1(){
         /**
@@ -53,7 +53,9 @@ public class task2 {
     }
 
     public static void main(String[] args) {
-
+        /**
+         * Основной метод программы
+         */
         task1_1();
 
         int[] arr = {1, 10, 30};
