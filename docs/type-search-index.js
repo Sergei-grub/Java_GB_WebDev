@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Seminar_1.ru.gb.jcore.regular","l":"Decorator"},{"p":"Seminar_1.ru.gb.jcore.sample","l":"Main"},{"p":"Seminar_1.ru.gb.jcore.regular","l":"OtherClass"}];updateSearchResults();
